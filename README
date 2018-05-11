@@ -1,0 +1,11 @@
+This is a very basic REST service sample which uses:
+
+ - Spark framework for http server/REST support 
+ - Hibernate for data access
+ - H2 database
+ - JUnit5 for unit testing
+
+Build with 
+mvn install 
+
+Find the jars in target folder both with and without dependencies included.
